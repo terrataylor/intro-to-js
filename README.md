@@ -17,7 +17,7 @@ Intro to variable types
  - array
  - object
  - null    ---- will cover later
- - undefined    ---- will cober later
+ - undefined    ---- will cover later
 
 
 Intro to if statements
